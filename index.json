@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "marvin",
+  "versions": [
+    {
+      "commit": "be92af1d777c2bddf6b06a18b8afef62b3a2a844",
+      "tag": "v3.2.10",
+      "parsed_at": "2026-11-08T02:56:37.066740+00:00"
+    }
+  ]
+}
