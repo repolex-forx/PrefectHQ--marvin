@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/marvin/commit/be92af1d777c2bddf6b06a18b8afef62b3a2a844",
       "git:hexsha": "be92af1d777c2bddf6b06a18b8afef62b3a2a844",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.2.10"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.2.10",
+      "repolex:parsedAt": "2026-11-08T02:56:37.038668+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/marvin/commit/fda94eba12aff937d19690c2a119e06d32971cad",
